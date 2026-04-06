@@ -12,4 +12,4 @@ Got into hacking as a teenager. Life took me through finance, compliance and bus
 
 **CTF** · [Root-me](https://www.root-me.org/twux) · [Osintopia](https://challenges.osintopia.fr/profil-public/Twux) · TryHackMe
 
-**Contact** · [LinkedIn](https://www.linkedin.com/in/victor-pacoud-223769132)
+**Contact** · Available on request
