@@ -20,6 +20,6 @@ Got into hacking as a teenager. Life took me through finance, compliance and bus
 
 ## How I work
 
-I design the architecture, define the methodology, and own every decision. An AI coding assistant helps me move faster on the syntax-heavy parts — the ideas, structure, and validation are mine.
+I own the architecture, methodology, and decisions. An AI coding assistant writes the code based on my specifications. I review, test, and validate everything.
 
 Focus on French/EU tooling gaps. Security-conscious by default.
