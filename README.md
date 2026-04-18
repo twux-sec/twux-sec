@@ -18,7 +18,7 @@ understanding of financial flows, risk and regulatory frameworks.
 **Certifications**  ·  Trace Labs OSINT Educational Series  ·  F1NDX OSINT Levels 1-3
 
 **CTF rankings** (active since late 2025)
-- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux) — Rank 25 
+- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux)  
 - [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank 62 / 2300
 - Trace Labs Search Party CTF
 - TryHackMe · HackTheBox
