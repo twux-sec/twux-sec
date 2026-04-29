@@ -19,7 +19,7 @@ understanding of financial flows, risk and regulatory frameworks.
 
 **CTF rankings** (active since late 2025)
 - [Osintopia](https://challenges.osintopia.fr/profil-public/Twux)  
-- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank 62 / 2300
+- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank 27 / 2300
 - [Root-Me](https://www.root-me.org/twux)
 - Trace Labs Search Party CTF
 - TryHackMe · HackTheBox
