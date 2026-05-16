@@ -7,7 +7,7 @@ since late 2025 — active CTF practice, building open-source
 investigative tools, deepening methodology. Now with a thorough 
 understanding of financial flows, risk and regulatory frameworks.
 
-**Working on**  ·  [`sec-notes`](https://github.com/twux-sec/sec-notes)  ·  [`usertrail`](https://github.com/twux-sec/usertrail)  ·  [`corprecon`](https://github.com/twux-sec/corprecon)
+**Working on**  ·  [[`sec-notes`](https://github.com/twux-sec/sec-notes)](https://twux-sec.github.io/sec-notes/)  ·  [`usertrail`](https://github.com/twux-sec/usertrail)  ·  [`corprecon`](https://github.com/twux-sec/corprecon)
 
 **Focus**  ·  OSINT  ·  Financial Investigation  ·  Threat Intelligence  ·  GRC  ·  Incident Response
 
