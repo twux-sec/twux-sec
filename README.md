@@ -1,28 +1,30 @@
 # Twux
 
-Breaking and building since my early teens (web security, network 
-exploration). Career path took me through finance, compliance and 
-business management. Full-time back on technical security work 
-since late 2025 — active CTF practice, building open-source 
-investigative tools, deepening methodology. Now with a thorough 
-understanding of financial flows, risk and regulatory frameworks.
+Breaking and building since my early teens (web security, network exploration). Career path took me through finance, compliance and business management — four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security work since late 2025 — active CTF practice, building open-source investigative tools, deepening methodology. Now with a thorough understanding of financial flows, risk and regulatory frameworks.
 
-**Working on**  ·  [[`sec-notes`](https://github.com/twux-sec/sec-notes)](https://twux-sec.github.io/sec-notes/)  ·  [`usertrail`](https://github.com/twux-sec/usertrail)  ·  [`corprecon`](https://github.com/twux-sec/corprecon)
+**Working on**
+· [`sec-notes`](https://twux-sec.github.io/sec-notes/)
+· [`usertrail`](https://github.com/twux-sec/usertrail)
+· [`sanctioncheck`](https://github.com/twux-sec/sanctioncheck)
+· [`corprecon`](https://github.com/twux-sec/corprecon)
 
-**Focus**  ·  OSINT  ·  Financial Investigation  ·  Threat Intelligence  ·  GRC  ·  Incident Response
+**Focus**  ·  OSINT  ·  Financial Investigation  ·  Threat Intelligence
 
-**Core Tools**  ·  Python  ·  Linux  ·  Nmap  ·  Wireshark
+**Core Tools**  ·  Python  ·  Linux  ·  Maltego  ·  Shodan  ·  Spiderfoot  ·  Recon-ng  ·  Sherlock   ·  Wireshark
 
-**Learning**  ·  Splunk  ·  Wazuh  ·  MITRE ATT&CK ·  MALWARE
+**Learning**  ·  Splunk  ·  Malware analysis
 
-**Certifications**  ·  Trace Labs OSINT Educational Series  ·  F1NDX OSINT Levels 1-3
+**Certifications**
+· Trace Labs OSINT Educational Series
+· F1NDX OSINT Levels 1-3
+· EBIOS Risk Manager — introduction (ANSSI, 2026)
 
 **CTF rankings** (active since late 2025)
-- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux)  
-- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank 27 / 2300
-- [Root-Me](https://www.root-me.org/twux)
-- Trace Labs Search Party CTF
-- TryHackMe · HackTheBox
+- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux)
+- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank **19 / 2300**
+- CTF Bleuet de France V5 (AEGE, mai 2026) — **100% · solo · 36eme/220 équipes**
+- Trace Labs Search Party CTF - En cours
+- [Root-Me](https://www.root-me.org/twux)  ·  TryHackMe  ·  HackTheBox
 
 **Contact**  ·  Available on request
 
@@ -30,8 +32,10 @@ understanding of financial flows, risk and regulatory frameworks.
 
 ### How I work
 
-I own the architecture, methodology, and decisions. An AI coding 
-assistant writes the code based on my specifications. I review, 
-test, and validate everything.
+OSINT investigation starts with a clear methodology before touching any tool. I follow a structured collection → validation → enrichment workflow, document everything in Obsidian, and publish writeups on [sec-notes](https://twux-sec.github.io/sec-notes/).
 
-Focus on French/EU tooling gaps. Security-conscious by default.
+Financial background feeds directly into FININT work: reading corporate structures, tracing beneficial ownership, cross-referencing sanctions lists — things I did professionally for four years under LCB-FT compliance.
+
+---
+
+*Designed by @twux-sec.*
