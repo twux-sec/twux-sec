@@ -2,11 +2,11 @@
 
 Breaking and building since my early teens (web security, network exploration). Career path took me through finance, compliance and business management — four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security work since late 2025 — active CTF practice, building open-source investigative tools, deepening methodology. Now with a thorough understanding of financial flows, risk and regulatory frameworks.
 
-**Working on**
-· [`sec-notes`](https://twux-sec.github.io/sec-notes/)
-· [`usertrail`](https://github.com/twux-sec/usertrail)
-· [`sanctioncheck`](https://github.com/twux-sec/sanctioncheck)
-· [`corprecon`](https://github.com/twux-sec/corprecon)
+**Working on**  
+· [`sec-notes`](https://twux-sec.github.io/sec-notes/)  
+· [`usertrail`](https://github.com/twux-sec/usertrail)  
+· [`sanctioncheck`](https://github.com/twux-sec/sanctioncheck)  
+· [`dorkator`](https://github.com/twux-sec/dorkator)  
 
 **Focus**  ·  OSINT  ·  Financial Investigation  ·  Threat Intelligence
 
