@@ -2,40 +2,72 @@
 
 Breaking and building since my early teens (web security, network exploration). Career path took me through finance, compliance and business management — four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security work since late 2025 — active CTF practice, building open-source investigative tools, deepening methodology. Now with a thorough understanding of financial flows, risk and regulatory frameworks.
 
-**Working on**  
-· [`sec-notes`](https://twux-sec.github.io/sec-notes/)  
-· [`usertrail`](https://github.com/twux-sec/usertrail)  
-· [`sanctioncheck`](https://github.com/twux-sec/sanctioncheck)  
-· [`dorkator`](https://github.com/twux-sec/dorkator)  
+---
 
-**Focus**  ·  OSINT  ·  Financial Investigation  ·  Threat Intelligence
+## 🔧 Working on
 
-**Core Tools**  ·  Python  ·  Linux  ·  Maltego  ·  Shodan  ·  Spiderfoot  ·  Recon-ng  ·  Sherlock   ·  Wireshark
-
-**Learning**  ·  Splunk  ·  Malware analysis
-
-**Certifications**
-· Trace Labs OSINT Educational Series
-· F1NDX OSINT Levels 1-3
-· EBIOS Risk Manager — introduction (ANSSI, 2026)
-
-**CTF rankings** (active since late 2025)
-- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux)
-- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank **19 / 2300**
-- CTF Bleuet de France V5 (AEGE, mai 2026) — **100% · solo · 36eme/220 équipes**
-- Trace Labs Search Party CTF - En cours
-- [Root-Me](https://www.root-me.org/twux)  ·  TryHackMe  ·  HackTheBox
-
-**Contact**  ·  Available on request
+| Repo | Description |
+|---|---|
+| [`usertrail`](https://github.com/twux-sec/usertrail) | OSINT username recon across 29 European & French platforms |
+| [`sanctioncheck`](https://github.com/twux-sec/sanctioncheck) | CLI screening tool for international sanctions lists (EU, UN, OFAC, DGT) |
+| [`dorkator`](https://github.com/twux-sec/dorkator) | OSINT dork generator — 84 curated dorks, batch opener, HTML/MD/JSON reports |
+| [`corprecon`](https://github.com/twux-sec/corprecon) | French corporate mandate mapping (SIRENE, BODACC, Pappers) |
+| [`sec-notes`](https://twux-sec.github.io/sec-notes/) | OSINT/CTF writeups, methodology notes, playbooks |
 
 ---
 
-### How I work
+## 🎯 Focus
+
+**OSINT** · **Financial Investigation (FININT)** · **Threat Intelligence**
+
+**Core Tools** · Python · Linux · Maltego · Shodan · Spiderfoot · Recon-ng · Sherlock · Wireshark
+
+**Learning** · Splunk · Wazuh · MITRE ATT&CK · Malware analysis
+
+---
+
+## 🏆 CTF participations
+
+| Dates | Événement | Équipe | Résultat | Organisateur |
+|---|---|---|---|---|
+| 08/05 – 15/05/2026 | [Bleuet de France V5](https://twux-sec.github.io/sec-notes/) | **Solo** | **36e / 220 · 100% des flags** | AEGE |
+| 06/06/2026 | Trace Labs Global Search Party | **Solo** | En cours | Trace Labs |
+| 2025–2026 | OSINT Industries CTF | **Solo** | **Rang 19 / 2300** | OSINT Industries |
+| 2025–2026 | Osintopia | **Solo** | Top 8% | Osintopia |
+
+---
+
+## 📜 Certifications
+
+[![Trace Labs OSINT](https://img.shields.io/badge/Trace%20Labs-OSINT%20Educational%20Series-blue?style=flat-square)](https://www.credly.com)
+[![F1NDX](https://img.shields.io/badge/F1NDX-OSINT%20Levels%201--3-orange?style=flat-square)](https://f1ndx.io)
+[![EBIOS RM](https://img.shields.io/badge/EBIOS%20RM-Introduction%20ANSSI%202026-red?style=flat-square)](https://www.clubebios.org)
+
+| Certification | Émetteur | Date |
+|---|---|---|
+| Trace Labs OSINT Educational Series | Trace Labs / CanCred | 2026 |
+| F1NDX OSINT Levels 1–3 | F1NDX | 2025–2026 |
+| EBIOS Risk Manager — introduction | Club EBIOS / ANSSI | Avril 2026 |
+
+---
+
+## 🔗 Rankings & profiles
+
+- [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank **19 / 2300**
+- [Osintopia](https://challenges.osintopia.fr/profil-public/Twux) — Top 8%
+- [Root-Me](https://www.root-me.org/twux)
+- TryHackMe · HackTheBox · LetsDefend
+
+---
+
+## ⚙️ How I work
 
 OSINT investigation starts with a clear methodology before touching any tool. I follow a structured collection → validation → enrichment workflow, document everything in Obsidian, and publish writeups on [sec-notes](https://twux-sec.github.io/sec-notes/).
 
 Financial background feeds directly into FININT work: reading corporate structures, tracing beneficial ownership, cross-referencing sanctions lists — things I did professionally for four years under LCB-FT compliance.
 
 ---
+
+**Contact** · Available on request
 
 *Designed by @twux-sec.*
