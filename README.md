@@ -42,12 +42,14 @@ Breaking and building since my early teens (web security, network exploration). 
 [![Trace Labs OSINT](https://img.shields.io/badge/Trace%20Labs-OSINT%20Educational%20Series-blue?style=flat-square)](https://www.credly.com)
 [![F1NDX](https://img.shields.io/badge/F1NDX-OSINT%20Levels%201--3-orange?style=flat-square)](https://f1ndx.io)
 [![EBIOS RM](https://img.shields.io/badge/EBIOS%20RM-Introduction%20ANSSI%202026-red?style=flat-square)](https://www.clubebios.org)
+[![AMF](https://img.shields.io/badge/AMF-91%2F95-green?style=flat-square)](https://www.amf-france.org)
 
 | Certification | Émetteur | Date |
 |---|---|---|
 | Trace Labs OSINT Educational Series | Trace Labs / CanCred | 2026 |
 | F1NDX OSINT Levels 1–3 | F1NDX | 2025–2026 |
 | EBIOS Risk Manager — introduction | Club EBIOS / ANSSI | Avril 2026 |
+| AMF (91/95) | Autorité des Marchés Financiers | — |
 
 ---
 
