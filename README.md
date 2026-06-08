@@ -2,7 +2,7 @@
 
 Breaking and building since my early teens — web security, network exploration. Four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security since late 2025: active CTF practice, open-source investigative tooling, deepening methodology. Financial flows, risk frameworks, and OSINT — bridged.
 
-CTF alias: **Fear the Weasel**
+CTF Solo team: **Fear the Weasel**
 
 ---
 
