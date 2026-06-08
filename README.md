@@ -6,8 +6,9 @@ Breaking and building since my early teens — web security, network exploration
 
 ## 🏅 Distinction
 
-> ### Most Valuable Operative — Trace Labs Global OSINT Search Party (June 2026)
-> Awarded by coach F1NDX for outstanding performance in a real-world missing persons OSINT operation. 37th / 123 participants — solo.
+> ### Most Valuable Operative (MVO) — Trace Labs Global OSINT Search Party (June 2026)
+> Trace Labs' equivalent of a **Black Badge** — awarded to the individual who submits the most valuable piece of OSINT during a CTF. Criteria: highly actionable intelligence, unique technique, high difficulty, or exceptional supporting evidence. Selected by Trace Labs Leadership Team from coach nominations.
+> *Awarded to team Fear the Weasel — 37th / 123 — solo.*
 
 ---
 
@@ -51,9 +52,8 @@ Breaking and building since my early teens — web security, network exploration
 <a href="https://factory.cancred.ca/obv3/credentials/d6a5f82ca2dd96d98a7d25a29106449e55af00f8.html" title="Trace Labs OSINT Educational Series">
 <img src="https://factory.cancred.ca/obv3/images/badge/3c73430a1b45466f90856f251a9e1fe33d8444c1943356e6b0a388a5f1d14453" width="90" alt="Trace Labs OSINT Educational Series"/></a>
 &nbsp;
-<img src="https://passport.cancred.ca/file/7/d/4/6/7d46b74841051126ba35c4647c4d9de6cab309db895832511bd470a424f4d5bc.png" width="90" alt="Certification 2"/>
-&nbsp;
-<img src="https://passport.cancred.ca/file/9/4/9/8/94980fb1b7dfd98cddee0e2f3f1054c1c82bdf081bff04a88431b8f366c100e8.png" width="90" alt="Certification 3"/>
+<a href="https://passport.cancred.ca/app/badge?id=41154" title="Most Valuable Operative">
+<img src="https://passport.cancred.ca/file/7/d/4/6/7d46b74841051126ba35c4647c4d9de6cab309db895832511bd470a424f4d5bc.png" width="90" alt="Most Valuable Operative"/></a>
 </p>
 
 | Certification | Émetteur | Date |
