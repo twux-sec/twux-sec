@@ -1,13 +1,25 @@
 # Twux
 
-Breaking and building since my early teens (web security, network exploration). Career path took me through finance, compliance and business management — four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security work since late 2025 — active CTF practice, building open-source investigative tools, deepening methodology. Now with a thorough understanding of financial flows, risk and regulatory frameworks.
+Breaking and building since my early teens — web security, network exploration. Four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security since late 2025: active CTF practice, open-source investigative tooling, deepening methodology. Financial flows, risk frameworks, and OSINT — bridged.
 
 ---
 
-## 🏅 Distinctions
+## 🏅 Distinction
 
-> **Most Valuable Operative (MVO)** — Trace Labs Global OSINT Search Party, June 2026
-> Distinction awarded for outstanding performance in a missing persons OSINT operation.
+> ### Most Valuable Operative — Trace Labs Global OSINT Search Party (June 2026)
+> Awarded by coach F1NDX for outstanding performance in a real-world missing persons OSINT operation. 37th / 123 participants — solo.
+
+---
+
+## 🏆 CTF participations
+
+| Dates | Événement | Équipe | Résultat | Organisateur |
+|---|---|---|---|---|
+| 06/06/2026 | Trace Labs Global Search Party | **Solo** | **37e / 123 · 🏅 MVO** | Trace Labs |
+| 22/05 – 29/05/2026 | Medileak 3 | **Solo** | **32e / 486 · 955 pts** | Medileak |
+| 08/05 – 15/05/2026 | [Bleuet de France V5](https://twux-sec.github.io/sec-notes/Bleuet-V5/WU-du-CTF-Bleuet-de-France-V5) | **Solo** | **36e / 220 · 100% des flags** | AEGE |
+| 2025–2026 | OSINT Industries CTF | **Solo** | **Rang 19 / 2300** | OSINT Industries |
+| 2025–2026 | Osintopia | **Solo** | Top 8% | Osintopia |
 
 ---
 
@@ -23,29 +35,26 @@ Breaking and building since my early teens (web security, network exploration). 
 
 ---
 
-## 🎯 Focus
+## 🎯 Focus & Tools
 
-**OSINT** · **Financial Investigation (FININT)** · **Threat Intelligence**
+**OSINT · Financial Investigation (FININT) · Threat Intelligence**
 
-**Core Tools** · Python · Linux · Maltego · Shodan · Spiderfoot · Recon-ng · Sherlock · Wireshark
+**Core** &nbsp;·&nbsp; Python &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Maltego &nbsp;·&nbsp; Shodan &nbsp;·&nbsp; Spiderfoot &nbsp;·&nbsp; Recon-ng &nbsp;·&nbsp; Sherlock &nbsp;·&nbsp; Wireshark
 
-**Learning** · Splunk · Wazuh · MITRE ATT&CK · Malware analysis
-
----
-
-## 🏆 CTF participations
-
-| Dates | Événement | Équipe | Résultat | Organisateur |
-|---|---|---|---|---|
-| 06/06/2026 | Trace Labs Global Search Party | **Solo** | **37e / 123 · 🏅 MVO** | Trace Labs |
-| 22/05 - 29/05/2026 | Medileak 3 | **Solo** | **32e / 486 · 955 pts** | Medileak |
-| 08/05 – 15/05/2026 | [Bleuet de France V5](https://twux-sec.github.io/sec-notes/) | **Solo** | **36e / 220 · 100% des flags** | AEGE |
-| 2025–2026 | OSINT Industries CTF | **Solo** | **Rang 19 / 2300** | OSINT Industries |
-| 2025–2026 | Osintopia | **Solo** | Top 8% | Osintopia |
+**Learning** &nbsp;·&nbsp; Splunk &nbsp;·&nbsp; Wazuh &nbsp;·&nbsp; MITRE ATT&CK &nbsp;·&nbsp; Malware analysis
 
 ---
 
 ## 📜 Certifications
+
+<p align="left">
+<a href="https://factory.cancred.ca/obv3/credentials/d6a5f82ca2dd96d98a7d25a29106449e55af00f8.html" title="Trace Labs OSINT Educational Series">
+<img src="https://factory.cancred.ca/obv3/images/badge/3c73430a1b45466f90856f251a9e1fe33d8444c1943356e6b0a388a5f1d14453" width="90" alt="Trace Labs OSINT Educational Series"/></a>
+&nbsp;
+<img src="https://passport.cancred.ca/file/7/d/4/6/7d46b74841051126ba35c4647c4d9de6cab309db895832511bd470a424f4d5bc.png" width="90" alt="Certification 2"/>
+&nbsp;
+<img src="https://passport.cancred.ca/file/9/4/9/8/94980fb1b7dfd98cddee0e2f3f1054c1c82bdf081bff04a88431b8f366c100e8.png" width="90" alt="Certification 3"/>
+</p>
 
 | Certification | Émetteur | Date |
 |---|---|---|
@@ -59,19 +68,16 @@ Breaking and building since my early teens (web security, network exploration). 
 
 - [OSINT Industries CTF](https://ctf.osint.industries/users/4660) — Rank **19 / 2300**
 - [Osintopia](https://challenges.osintopia.fr/profil-public/Twux) — Top 8%
-- [Root-Me](https://www.root-me.org/twux)
-- TryHackMe · HackTheBox · LetsDefend
+- [Root-Me](https://www.root-me.org/twux) &nbsp;·&nbsp; TryHackMe &nbsp;·&nbsp; HackTheBox &nbsp;·&nbsp; LetsDefend
 
 ---
 
 ## ⚙️ How I work
 
-OSINT investigation starts with a clear methodology before touching any tool. I follow a structured collection → validation → enrichment workflow, document everything in Obsidian, and publish writeups on [sec-notes](https://twux-sec.github.io/sec-notes/).
+OSINT investigation starts with a clear methodology before touching any tool. Structured collection → validation → enrichment workflow, documented in Obsidian, published on [sec-notes](https://twux-sec.github.io/sec-notes/).
 
-Financial background feeds directly into FININT work: reading corporate structures, tracing beneficial ownership, cross-referencing sanctions lists — things I did professionally for four years under LCB-FT compliance.
+Financial background feeds directly into FININT: reading corporate structures, tracing beneficial ownership, cross-referencing sanctions lists — four years of professional practice under LCB-FT compliance.
 
 ---
 
-**Contact** · Available on request
-
-*Designed by @twux-sec.*
+**Contact** · Available on request &nbsp;·&nbsp; *@twux-sec*
