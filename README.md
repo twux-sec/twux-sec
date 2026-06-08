@@ -7,7 +7,7 @@ Breaking and building since my early teens (web security, network exploration). 
 ## 🏅 Distinctions
 
 > **Most Valuable Operative (MVO)** — Trace Labs Global OSINT Search Party, June 2026
-> Distinction awarded by coach F1NDX for outstanding performance in a missing persons OSINT operation.
+> Distinction awarded for outstanding performance in a missing persons OSINT operation.
 
 ---
 
