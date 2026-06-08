@@ -4,6 +4,13 @@ Breaking and building since my early teens (web security, network exploration). 
 
 ---
 
+## 🏅 Distinctions
+
+> **Most Valuable Operative (MVO)** — Trace Labs Global OSINT Search Party, June 2026
+> Distinction awarded by coach F1NDX for outstanding performance in a missing persons OSINT operation.
+
+---
+
 ## 🔧 Working on
 
 | Repo | Description |
@@ -30,8 +37,9 @@ Breaking and building since my early teens (web security, network exploration). 
 
 | Dates | Événement | Équipe | Résultat | Organisateur |
 |---|---|---|---|---|
+| 06/06/2026 | Trace Labs Global Search Party | **Solo** | **37e / 123 · 🏅 MVO** | Trace Labs |
 | 08/05 – 15/05/2026 | [Bleuet de France V5](https://twux-sec.github.io/sec-notes/) | **Solo** | **36e / 220 · 100% des flags** | AEGE |
-| 06/06/2026 | Trace Labs Global Search Party | **Solo** | En cours | Trace Labs |
+| 2026 | Medileak 3 | **Solo** | **32e / 486 · 955 pts** | Medileak |
 | 2025–2026 | OSINT Industries CTF | **Solo** | **Rang 19 / 2300** | OSINT Industries |
 | 2025–2026 | Osintopia | **Solo** | Top 8% | Osintopia |
 
