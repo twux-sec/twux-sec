@@ -2,13 +2,14 @@
 
 Breaking and building since my early teens — web security, network exploration. Four years in regulated finance (wealth management, LCB-FT compliance, business management). Full-time back on technical security since late 2025: active CTF practice, open-source investigative tooling, deepening methodology. Financial flows, risk frameworks, and OSINT — bridged.
 
+CTF alias: **Fear the Weasel**
+
 ---
 
 ## 🏅 Distinction
 
 > ### Most Valuable Operative (MVO) — Trace Labs Global OSINT Search Party (June 2026)
-> Trace Labs' equivalent of a **Black Badge** — awarded to the individual who submits the most valuable piece of OSINT during a CTF. Criteria: highly actionable intelligence, unique technique, high difficulty, or exceptional supporting evidence. Selected by Trace Labs Leadership Team from coach nominations.
-> *Awarded to team Fear the Weasel — 37th / 123 — solo.*
+> Trace Labs' equivalent of a **Black Badge** — awarded to the submission judged most valuable by the coach team and Trace Labs Leadership. Solo, 37th / 123, under CTF alias *Fear the Weasel*.
 
 ---
 
@@ -58,6 +59,7 @@ Breaking and building since my early teens — web security, network exploration
 
 | Certification | Émetteur | Date |
 |---|---|---|
+| Most Valuable Operative (MVO) | Trace Labs | Juin 2026 |
 | Trace Labs OSINT Educational Series | Trace Labs / CanCred | Avril 2026 |
 | EBIOS Risk Manager — introduction | Club EBIOS / ANSSI | Avril 2026 |
 | AMF (91/95) | AMF | — |
