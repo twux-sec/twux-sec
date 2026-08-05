@@ -43,8 +43,6 @@ CTF Solo team: **Fear the Weasel**
 
 **Core** &nbsp;·&nbsp; Python &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Maltego &nbsp;·&nbsp; Shodan &nbsp;·&nbsp; Spiderfoot &nbsp;·&nbsp; Recon-ng &nbsp;·&nbsp; Sherlock &nbsp;·&nbsp; Wireshark
 
-**Learning** &nbsp;·&nbsp; Splunk &nbsp;·&nbsp; Wazuh &nbsp;·&nbsp; MITRE ATT&CK &nbsp;·&nbsp; Malware analysis
-
 ---
 
 ## 📜 Certifications
